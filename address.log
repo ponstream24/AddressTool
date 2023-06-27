@@ -1,0 +1,409 @@
+[11:23:09] [] 
+
+
+[11:23:10] [StartProcess] Hello! Now Starting...
+[11:23:10] [StartProcess] Initializing variable...
+[11:23:10] [StartProcess] Initialization complete!
+[11:23:10] [StartProcess] Test Connect (api.itsystem-lab.com)
+[11:23:10] [InterNet] IPv4: 172.67.182.131
+[11:23:10] [StartProcess] Web access OK
+[11:23:10] [LoadData] Loading Now... (./address.txt)
+[11:23:10] [LoadData] LINE1: 7
+[11:23:10] [LoadData] LINE2: Taro Yamada yamada@abc.com
+[11:23:10] [LoadData] LINE2: 	lname -> Taro
+[11:23:10] [LoadData] LINE2: 	fname -> Yamada
+[11:23:10] [LoadData] LINE2: 	email -> yamada@abc.com
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 0
+[11:23:10] [UserCtrl]  Last Name     : Taro
+[11:23:10] [UserCtrl]  First Name    : Yamada
+[11:23:10] [UserCtrl]  Email Address : yamada@abc.com
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] LINE3: Hanako Koudai hanako@s.chibakodai.jp
+[11:23:10] [LoadData] LINE3: 	lname -> Hanako
+[11:23:10] [LoadData] LINE3: 	fname -> Koudai
+[11:23:10] [LoadData] LINE3: 	email -> hanako@s.chibakodai.jp
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 1
+[11:23:10] [UserCtrl]  Last Name     : Hanako
+[11:23:10] [UserCtrl]  First Name    : Koudai
+[11:23:10] [UserCtrl]  Email Address : hanako@s.chibakodai.jp
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] LINE4: Ichiro Suzuki area51@ichiro.com
+[11:23:10] [LoadData] LINE4: 	lname -> Ichiro
+[11:23:10] [LoadData] LINE4: 	fname -> Suzuki
+[11:23:10] [LoadData] LINE4: 	email -> area51@ichiro.com
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 2
+[11:23:10] [UserCtrl]  Last Name     : Ichiro
+[11:23:10] [UserCtrl]  First Name    : Suzuki
+[11:23:10] [UserCtrl]  Email Address : area51@ichiro.com
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] LINE5: aaaaaa aaaaaa aaaaaaa@aaaaaaa.aaaaaa
+[11:23:10] [LoadData] LINE5: 	lname -> aaaaaa
+[11:23:10] [LoadData] LINE5: 	fname -> aaaaaa
+[11:23:10] [LoadData] LINE5: 	email -> aaaaaaa@aaaaaaa.aaaaaa
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 3
+[11:23:10] [UserCtrl]  Last Name     : aaaaaa
+[11:23:10] [UserCtrl]  First Name    : aaaaaa
+[11:23:10] [UserCtrl]  Email Address : aaaaaaa@aaaaaaa.aaaaaa
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] LINE6: bbbb bbbb bbbb@bbbbb
+[11:23:10] [LoadData] LINE6: 	lname -> bbbb
+[11:23:10] [LoadData] LINE6: 	fname -> bbbb
+[11:23:10] [LoadData] LINE6: 	email -> bbbb@bbbbb
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 4
+[11:23:10] [UserCtrl]  Last Name     : bbbb
+[11:23:10] [UserCtrl]  First Name    : bbbb
+[11:23:10] [UserCtrl]  Email Address : bbbb@bbbbb
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] LINE7: abbbbbbb abbbbbbb abbbbbb@bbbbbbb
+[11:23:10] [LoadData] LINE7: 	lname -> abbbbbbb
+[11:23:10] [LoadData] LINE7: 	fname -> abbbbbbb
+[11:23:10] [LoadData] LINE7: 	email -> abbbbbb@bbbbbbb
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 5
+[11:23:10] [UserCtrl]  Last Name     : abbbbbbb
+[11:23:10] [UserCtrl]  First Name    : abbbbbbb
+[11:23:10] [UserCtrl]  Email Address : abbbbbb@bbbbbbb
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] LINE8: aaa aaaaaaaaa aaaaaaa@aaaaaaaaa.aaaaa
+[11:23:10] [LoadData] LINE8: 	lname -> aaa
+[11:23:10] [LoadData] LINE8: 	fname -> aaaaaaaaa
+[11:23:10] [LoadData] LINE8: 	email -> aaaaaaa@aaaaaaaaa.aaaaa
+[11:23:10] [UserCtrl] Registering user...
+[11:23:10] [UserCtrl] *------- User Info -------*
+[11:23:10] [UserCtrl]      ID        : 6
+[11:23:10] [UserCtrl]  Last Name     : aaa
+[11:23:10] [UserCtrl]  First Name    : aaaaaaaaa
+[11:23:10] [UserCtrl]  Email Address : aaaaaaa@aaaaaaaaa.aaaaa
+[11:23:10] [UserCtrl] *-------------------------*
+[11:23:10] [UserCtrl] User registered.
+[11:23:10] [LoadData] Loaded! (./address.txt)
+[11:23:10] [LoadData] Create Recorded! (7)
+[11:23:10] [StartProcess] Complete!
+[11:23:10] [Main] [34mStartup process has been completed.[0m
+[11:23:12] [Address/ホーム] Action : [11:30:14] [EndProcess] Now Saving...
+[11:30:14] [SaveData] Saving Now... (./address.txt)
+[11:30:14] [SaveData] UserCount -> 7
+[11:30:14] [SaveData] ID0: 	lname -> Yamada
+[11:30:14] [SaveData] ID0: 	lname -> Taro
+[11:30:14] [SaveData] ID0: 	email -> yamada@abc.com
+[11:30:14] [SaveData] ID1: 	lname -> Koudai
+[11:30:14] [SaveData] ID1: 	lname -> Hanako
+[11:30:14] [SaveData] ID1: 	email -> hanako@s.chibakodai.jp
+[11:30:14] [SaveData] ID2: 	lname -> Suzuki
+[11:30:14] [SaveData] ID2: 	lname -> Ichiro
+[11:30:14] [SaveData] ID2: 	email -> area51@ichiro.com
+[11:30:14] [SaveData] ID3: 	lname -> aaaaaa
+[11:30:14] [SaveData] ID3: 	lname -> aaaaaa
+[11:30:14] [SaveData] ID3: 	email -> aaaaaaa@aaaaaaa.aaaaaa
+[11:30:14] [SaveData] ID4: 	lname -> bbbb
+[11:30:14] [SaveData] ID4: 	lname -> bbbb
+[11:30:14] [SaveData] ID4: 	email -> bbbb@bbbbb
+[11:30:14] [SaveData] ID5: 	lname -> abbbbbbb
+[11:30:14] [SaveData] ID5: 	lname -> abbbbbbb
+[11:30:14] [SaveData] ID5: 	email -> abbbbbb@bbbbbbb
+[11:30:14] [SaveData] ID6: 	lname -> aaaaaaaaa
+[11:30:14] [SaveData] ID6: 	lname -> aaa
+[11:30:14] [SaveData] ID6: 	email -> aaaaaaa@aaaaaaaaa.aaaaa
+[11:30:14] [EndProcess] Complete!
+[11:30:14] [EndProcess] Goooood bye!
+[11:30:17] [] 
+
+
+[11:30:18] [StartProcess] Hello! Now Starting...
+[11:30:18] [StartProcess] Initializing variable...
+[11:30:18] [StartProcess] Initialization complete!
+[11:30:18] [StartProcess] Test Connect (api.itsystem-lab.com)
+[11:30:18] [InterNet] IPv4: 172.67.182.131
+[11:30:18] [StartProcess] Web access OK
+[11:30:18] [LoadData] Loading Now... (./address.txt)
+[11:30:18] [LoadData] LINE1: 7
+[11:30:18] [LoadData] LINE2: Yamada Taro yamada@abc.com
+[11:30:18] [LoadData] LINE2: 	lname -> Yamada
+[11:30:18] [LoadData] LINE2: 	fname -> Taro
+[11:30:18] [LoadData] LINE2: 	email -> yamada@abc.com
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 0
+[11:30:18] [UserCtrl]  Last Name     : Yamada
+[11:30:18] [UserCtrl]  First Name    : Taro
+[11:30:18] [UserCtrl]  Email Address : yamada@abc.com
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] LINE3: Koudai Hanako hanako@s.chibakodai.jp
+[11:30:18] [LoadData] LINE3: 	lname -> Koudai
+[11:30:18] [LoadData] LINE3: 	fname -> Hanako
+[11:30:18] [LoadData] LINE3: 	email -> hanako@s.chibakodai.jp
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 1
+[11:30:18] [UserCtrl]  Last Name     : Koudai
+[11:30:18] [UserCtrl]  First Name    : Hanako
+[11:30:18] [UserCtrl]  Email Address : hanako@s.chibakodai.jp
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] LINE4: Suzuki Ichiro area51@ichiro.com
+[11:30:18] [LoadData] LINE4: 	lname -> Suzuki
+[11:30:18] [LoadData] LINE4: 	fname -> Ichiro
+[11:30:18] [LoadData] LINE4: 	email -> area51@ichiro.com
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 2
+[11:30:18] [UserCtrl]  Last Name     : Suzuki
+[11:30:18] [UserCtrl]  First Name    : Ichiro
+[11:30:18] [UserCtrl]  Email Address : area51@ichiro.com
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] LINE5: aaaaaa aaaaaa aaaaaaa@aaaaaaa.aaaaaa
+[11:30:18] [LoadData] LINE5: 	lname -> aaaaaa
+[11:30:18] [LoadData] LINE5: 	fname -> aaaaaa
+[11:30:18] [LoadData] LINE5: 	email -> aaaaaaa@aaaaaaa.aaaaaa
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 3
+[11:30:18] [UserCtrl]  Last Name     : aaaaaa
+[11:30:18] [UserCtrl]  First Name    : aaaaaa
+[11:30:18] [UserCtrl]  Email Address : aaaaaaa@aaaaaaa.aaaaaa
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] LINE6: bbbb bbbb bbbb@bbbbb
+[11:30:18] [LoadData] LINE6: 	lname -> bbbb
+[11:30:18] [LoadData] LINE6: 	fname -> bbbb
+[11:30:18] [LoadData] LINE6: 	email -> bbbb@bbbbb
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 4
+[11:30:18] [UserCtrl]  Last Name     : bbbb
+[11:30:18] [UserCtrl]  First Name    : bbbb
+[11:30:18] [UserCtrl]  Email Address : bbbb@bbbbb
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] LINE7: abbbbbbb abbbbbbb abbbbbb@bbbbbbb
+[11:30:18] [LoadData] LINE7: 	lname -> abbbbbbb
+[11:30:18] [LoadData] LINE7: 	fname -> abbbbbbb
+[11:30:18] [LoadData] LINE7: 	email -> abbbbbb@bbbbbbb
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 5
+[11:30:18] [UserCtrl]  Last Name     : abbbbbbb
+[11:30:18] [UserCtrl]  First Name    : abbbbbbb
+[11:30:18] [UserCtrl]  Email Address : abbbbbb@bbbbbbb
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] LINE8: aaaaaaaaa aaa aaaaaaa@aaaaaaaaa.aaaaa
+[11:30:18] [LoadData] LINE8: 	lname -> aaaaaaaaa
+[11:30:18] [LoadData] LINE8: 	fname -> aaa
+[11:30:18] [LoadData] LINE8: 	email -> aaaaaaa@aaaaaaaaa.aaaaa
+[11:30:18] [UserCtrl] Registering user...
+[11:30:18] [UserCtrl] *------- User Info -------*
+[11:30:18] [UserCtrl]      ID        : 6
+[11:30:18] [UserCtrl]  Last Name     : aaaaaaaaa
+[11:30:18] [UserCtrl]  First Name    : aaa
+[11:30:18] [UserCtrl]  Email Address : aaaaaaa@aaaaaaaaa.aaaaa
+[11:30:18] [UserCtrl] *-------------------------*
+[11:30:18] [UserCtrl] User registered.
+[11:30:18] [LoadData] Loaded! (./address.txt)
+[11:30:18] [LoadData] Create Recorded! (7)
+[11:30:18] [StartProcess] Complete!
+[11:30:18] [Main] [34mStartup process has been completed.[0m
+[11:30:20] [Address/ホーム] Action : [11:30:25] [Address/ホーム] Action : [11:30:53] [Address/ホーム] Action : [11:32:35] [Address/ホーム/ユーザー削除] [33m中止する場合は、[-q]を入力してください。[0m
+[11:32:35] [Address/ホーム/ユーザー削除] 削除するID(数字) : [11:32:41] [Address/ホーム] Action : [11:40:22] [EndProcess] Now Saving...
+[11:40:22] [SaveData] Saving Now... (./address.txt)
+[11:40:22] [SaveData] UserCount -> 7
+[11:40:22] [SaveData] ID0: 	lname -> Taro
+[11:40:22] [SaveData] ID0: 	lname -> Yamada
+[11:40:22] [SaveData] ID0: 	email -> yamada@abc.com
+[11:40:22] [SaveData] ID1: 	lname -> Hanako
+[11:40:22] [SaveData] ID1: 	lname -> Koudai
+[11:40:22] [SaveData] ID1: 	email -> hanako@s.chibakodai.jp
+[11:40:22] [SaveData] ID2: 	lname -> Ichiro
+[11:40:22] [SaveData] ID2: 	lname -> Suzuki
+[11:40:22] [SaveData] ID2: 	email -> area51@ichiro.com
+[11:40:22] [SaveData] ID3: 	lname -> aaaaaa
+[11:40:22] [SaveData] ID3: 	lname -> aaaaaa
+[11:40:22] [SaveData] ID3: 	email -> aaaaaaa@aaaaaaa.aaaaaa
+[11:40:22] [SaveData] ID4: 	lname -> bbbb
+[11:40:22] [SaveData] ID4: 	lname -> bbbb
+[11:40:22] [SaveData] ID4: 	email -> bbbb@bbbbb
+[11:40:22] [SaveData] ID5: 	lname -> abbbbbbb
+[11:40:22] [SaveData] ID5: 	lname -> abbbbbbb
+[11:40:22] [SaveData] ID5: 	email -> abbbbbb@bbbbbbb
+[11:40:22] [SaveData] ID6: 	lname -> aaa
+[11:40:22] [SaveData] ID6: 	lname -> aaaaaaaaa
+[11:40:22] [SaveData] ID6: 	email -> aaaaaaa@aaaaaaaaa.aaaaa
+[11:40:22] [EndProcess] Complete!
+[11:40:22] [EndProcess] Goooood bye!
+[11:40:27] [] 
+
+
+[11:40:28] [StartProcess] Hello! Now Starting...
+[11:40:28] [StartProcess] Initializing variable...
+[11:40:28] [StartProcess] Initialization complete!
+[11:40:28] [StartProcess] Test Connect (api.itsystem-lab.com)
+[11:40:28] [InterNet] IPv4: 172.67.182.131
+[11:40:28] [StartProcess] Web access OK
+[11:40:28] [LoadData] Loading Now... (./address.txt)
+[11:40:28] [LoadData] LINE1: 7
+[11:40:28] [LoadData] LINE2: Taro Yamada yamada@abc.com
+[11:40:28] [LoadData] LINE2: 	lname -> Taro
+[11:40:28] [LoadData] LINE2: 	fname -> Yamada
+[11:40:28] [LoadData] LINE2: 	email -> yamada@abc.com
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 0
+[11:40:28] [UserCtrl]  Last Name     : Taro
+[11:40:28] [UserCtrl]  First Name    : Yamada
+[11:40:28] [UserCtrl]  Email Address : yamada@abc.com
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] LINE3: Hanako Koudai hanako@s.chibakodai.jp
+[11:40:28] [LoadData] LINE3: 	lname -> Hanako
+[11:40:28] [LoadData] LINE3: 	fname -> Koudai
+[11:40:28] [LoadData] LINE3: 	email -> hanako@s.chibakodai.jp
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 1
+[11:40:28] [UserCtrl]  Last Name     : Hanako
+[11:40:28] [UserCtrl]  First Name    : Koudai
+[11:40:28] [UserCtrl]  Email Address : hanako@s.chibakodai.jp
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] LINE4: Ichiro Suzuki area51@ichiro.com
+[11:40:28] [LoadData] LINE4: 	lname -> Ichiro
+[11:40:28] [LoadData] LINE4: 	fname -> Suzuki
+[11:40:28] [LoadData] LINE4: 	email -> area51@ichiro.com
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 2
+[11:40:28] [UserCtrl]  Last Name     : Ichiro
+[11:40:28] [UserCtrl]  First Name    : Suzuki
+[11:40:28] [UserCtrl]  Email Address : area51@ichiro.com
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] LINE5: aaaaaa aaaaaa aaaaaaa@aaaaaaa.aaaaaa
+[11:40:28] [LoadData] LINE5: 	lname -> aaaaaa
+[11:40:28] [LoadData] LINE5: 	fname -> aaaaaa
+[11:40:28] [LoadData] LINE5: 	email -> aaaaaaa@aaaaaaa.aaaaaa
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 3
+[11:40:28] [UserCtrl]  Last Name     : aaaaaa
+[11:40:28] [UserCtrl]  First Name    : aaaaaa
+[11:40:28] [UserCtrl]  Email Address : aaaaaaa@aaaaaaa.aaaaaa
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] LINE6: bbbb bbbb bbbb@bbbbb
+[11:40:28] [LoadData] LINE6: 	lname -> bbbb
+[11:40:28] [LoadData] LINE6: 	fname -> bbbb
+[11:40:28] [LoadData] LINE6: 	email -> bbbb@bbbbb
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 4
+[11:40:28] [UserCtrl]  Last Name     : bbbb
+[11:40:28] [UserCtrl]  First Name    : bbbb
+[11:40:28] [UserCtrl]  Email Address : bbbb@bbbbb
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] LINE7: abbbbbbb abbbbbbb abbbbbb@bbbbbbb
+[11:40:28] [LoadData] LINE7: 	lname -> abbbbbbb
+[11:40:28] [LoadData] LINE7: 	fname -> abbbbbbb
+[11:40:28] [LoadData] LINE7: 	email -> abbbbbb@bbbbbbb
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 5
+[11:40:28] [UserCtrl]  Last Name     : abbbbbbb
+[11:40:28] [UserCtrl]  First Name    : abbbbbbb
+[11:40:28] [UserCtrl]  Email Address : abbbbbb@bbbbbbb
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] LINE8: aaa aaaaaaaaa aaaaaaa@aaaaaaaaa.aaaaa
+[11:40:28] [LoadData] LINE8: 	lname -> aaa
+[11:40:28] [LoadData] LINE8: 	fname -> aaaaaaaaa
+[11:40:28] [LoadData] LINE8: 	email -> aaaaaaa@aaaaaaaaa.aaaaa
+[11:40:28] [UserCtrl] Registering user...
+[11:40:28] [UserCtrl] *------- User Info -------*
+[11:40:28] [UserCtrl]      ID        : 6
+[11:40:28] [UserCtrl]  Last Name     : aaa
+[11:40:28] [UserCtrl]  First Name    : aaaaaaaaa
+[11:40:28] [UserCtrl]  Email Address : aaaaaaa@aaaaaaaaa.aaaaa
+[11:40:28] [UserCtrl] *-------------------------*
+[11:40:28] [UserCtrl] User registered.
+[11:40:28] [LoadData] Loaded! (./address.txt)
+[11:40:28] [LoadData] Create Recorded! (7)
+[11:40:28] [StartProcess] Complete!
+[11:40:28] [Main] [34mStartup process has been completed.[0m
+[11:40:39] [Address/ホーム] Action : [11:41:54] [Address/ホーム] Action : [11:41:59] [Address/ホーム/新規ユーザー作成] [33m中止する場合は、[-q]を入力してください。[0m
+[11:41:59] [Address/ホーム/新規ユーザー作成] 名字 : [11:42:03] [Address/ホーム/新規ユーザー作成] 名前 : [11:42:05] [Address/ホーム/新規ユーザー作成] メールアドレス : [11:42:11] [Emailチェッカー] [31mメールアドレスの構文は正しいですが、使われていないメールアドレスの可能性があります。それでも登録しますか？[0m[y/n][11:42:38] [UserCtrl] *------- User Info -------*
+[11:42:38] [UserCtrl]      ID        : <作成後付与>
+[11:42:38] [UserCtrl]  Last Name     : abc
+[11:42:38] [UserCtrl]  First Name    : efg
+[11:42:38] [UserCtrl]  Email Address : aaa@p.com
+[11:42:38] [UserCtrl] *------------------------*
+[11:42:38] [Address/ホーム/新規ユーザー作成] [33m上記の情報でユーザーを新規作成しますか？[0m[y/n][11:42:46] [UserCtrl] Registering user...
+[11:42:46] [UserCtrl] *------- User Info -------*
+[11:42:46] [UserCtrl]      ID        : 7
+[11:42:46] [UserCtrl]  Last Name     : abc
+[11:42:46] [UserCtrl]  First Name    : efg
+[11:42:46] [UserCtrl]  Email Address : aaa@p.com
+[11:42:46] [UserCtrl] *-------------------------*
+[11:42:46] [UserCtrl] User registered.
+[11:42:46] [Address/ホーム/新規ユーザー作成] [34mユーザーを作成しました!エンターキーを押して続けてください..[0m[11:42:50] [Address/ホーム] Action : [11:42:57] [Address/ホーム/ユーザー削除] [33m中止する場合は、[-q]を入力してください。[0m
+[11:42:57] [Address/ホーム/ユーザー削除] 削除するID(数字) : [11:43:01] [UserCtrl] *------- User Info -------*
+[11:43:01] [UserCtrl]      ID        : 7
+[11:43:01] [UserCtrl]  Last Name     : abc
+[11:43:01] [UserCtrl]  First Name    : efg
+[11:43:01] [UserCtrl]  Email Address : aaa@p.com
+[11:43:01] [UserCtrl] *------------------------*
+[11:43:01] [Address/ホーム/ユーザー削除] [33m以上のユーザーを削除しますか？[0m[y/n][11:43:04] [Address/ホーム/ユーザー削除] [32m以下のユーザーを削除しました。[0m
+[11:43:04] [UserCtrl] *------- User Info -------*
+[11:43:04] [UserCtrl]      ID        : 7
+[11:43:04] [UserCtrl]  Last Name     : abc
+[11:43:04] [UserCtrl]  First Name    : efg
+[11:43:04] [UserCtrl]  Email Address : aaa@p.com
+[11:43:04] [UserCtrl] *------------------------*
+[11:43:04] [Address/ホーム/ユーザー削除] [34mエンターキーを押して続けてください..[0m[11:43:07] [Address/ホーム] Action : [11:43:29] [Address/ホーム] Action : [11:43:35] [Main] [34mシステムを終了します...
+[0m[11:43:35] [MainProcess] [34m Shutdown...
+[0m[11:43:35] [Main] [34mShutting down the system.[0m
+[11:43:35] [EndProcess] Now Saving...
+[11:43:35] [SaveData] Saving Now... (./address.txt)
+[11:43:35] [SaveData] UserCount -> 7
+[11:43:35] [SaveData] ID0: 	lname -> Yamada
+[11:43:35] [SaveData] ID0: 	lname -> Taro
+[11:43:35] [SaveData] ID0: 	email -> yamada@abc.com
+[11:43:35] [SaveData] ID1: 	lname -> Koudai
+[11:43:35] [SaveData] ID1: 	lname -> Hanako
+[11:43:35] [SaveData] ID1: 	email -> hanako@s.chibakodai.jp
+[11:43:35] [SaveData] ID2: 	lname -> Suzuki
+[11:43:35] [SaveData] ID2: 	lname -> Ichiro
+[11:43:35] [SaveData] ID2: 	email -> area51@ichiro.com
+[11:43:35] [SaveData] ID3: 	lname -> aaaaaa
+[11:43:35] [SaveData] ID3: 	lname -> aaaaaa
+[11:43:35] [SaveData] ID3: 	email -> aaaaaaa@aaaaaaa.aaaaaa
+[11:43:35] [SaveData] ID4: 	lname -> bbbb
+[11:43:35] [SaveData] ID4: 	lname -> bbbb
+[11:43:35] [SaveData] ID4: 	email -> bbbb@bbbbb
+[11:43:35] [SaveData] ID5: 	lname -> abbbbbbb
+[11:43:35] [SaveData] ID5: 	lname -> abbbbbbb
+[11:43:35] [SaveData] ID5: 	email -> abbbbbb@bbbbbbb
+[11:43:35] [SaveData] ID6: 	lname -> aaaaaaaaa
+[11:43:35] [SaveData] ID6: 	lname -> aaa
+[11:43:35] [SaveData] ID6: 	email -> aaaaaaa@aaaaaaaaa.aaaaa
+[11:43:35] [EndProcess] Complete!
+[11:43:35] [EndProcess] Goooood bye!
+[11:43:35] [Main] Goooood bye!
